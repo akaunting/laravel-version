@@ -146,7 +146,7 @@ class Version
      **/
     public static function release()
     {
-        return static::major() .  '.' . static::minor();
+        return static::major() . '.' . static::minor();
     }
 
     /**
@@ -156,7 +156,7 @@ class Version
      **/
     public static function short()
     {
-        return static::release() .  '.' . static::patch();
+        return static::release() . '.' . static::patch();
     }
 
     /**
