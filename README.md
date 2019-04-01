@@ -1,9 +1,9 @@
 # Version management package for Laravel.
 
 [![Version](https://poser.pugx.org/akaunting/version/v/stable.svg)](https://github.com/akaunting/version/releases)
+[![Downloads](https://poser.pugx.org/akaunting/version/d/total.svg)](https://github.com/akaunting/version)
 [![Quality](https://scrutinizer-ci.com/g/akaunting/version/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/akaunting/version)
 [![StyleCI](https://styleci.io/repos/101269981/shield?style=flat&branch=master)](https://styleci.io/repos/101269981)
-[![Downloads](https://poser.pugx.org/akaunting/version/d/total.svg)](https://github.com/akaunting/version)
 [![License](https://poser.pugx.org/akaunting/version/license.svg)](LICENSE.md)
 
 This is a [SemVer](http://semver.org) compatible version management package for any software built on Laravel.

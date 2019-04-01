@@ -5,6 +5,7 @@ if (!function_exists('version')) {
      * Get the Version instance or a specific method.
      *
      * @param string $method
+     *
      * @return mixed
      */
     function version($method = null)
