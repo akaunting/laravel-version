@@ -17,7 +17,7 @@ class Provider extends ServiceProvider
     public function boot(Router $router)
     {
         $this->publishes([
-            __DIR__.'/Config/version.php' => config_path('version.php'),
+            __DIR__ . '/Config/version.php' => config_path('version.php'),
         ], 'version');
 
         $this->app->singleton('version', function ($app) {
@@ -32,6 +32,6 @@ class Provider extends ServiceProvider
      */
     public function register()
     {
-        $this->mergeConfigFrom(__DIR__.'/Config/version.php', 'version');
+        $this->mergeConfigFrom(__DIR__ . '/Config/version.php', 'version');
     }
 }
