@@ -1,10 +1,9 @@
-# Version management package for Laravel.
+# Version management package for Laravel
 
-[![Version](https://poser.pugx.org/akaunting/version/v/stable.svg)](https://github.com/akaunting/version/releases)
-[![Downloads](https://poser.pugx.org/akaunting/version/d/total.svg)](https://github.com/akaunting/version)
+[![Downloads](https://poser.pugx.org/akaunting/laravel-version/d/total.svg)](https://github.com/akaunting/laravel-version)
 [![StyleCI](https://styleci.io/repos/101269981/shield?style=flat&branch=master)](https://styleci.io/repos/101269981)
-[![Quality](https://scrutinizer-ci.com/g/akaunting/version/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/akaunting/version)
-[![License](https://poser.pugx.org/akaunting/version/license.svg)](LICENSE.md)
+[![Quality](https://scrutinizer-ci.com/g/akaunting/laravel-version/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/akaunting/laravel-version)
+[![License](https://poser.pugx.org/akaunting/laravel-version/license.svg)](LICENSE.md)
 
 This is a [SemVer](http://semver.org) compatible version management package for any software built on Laravel.
 
@@ -15,7 +14,7 @@ This is a [SemVer](http://semver.org) compatible version management package for 
 Run the following command:
 
 ```bash
-composer require akaunting/version
+composer require akaunting/laravel-version
 ```
 
 ### 2. Register (for Laravel < 5.5)

@@ -1,6 +1,6 @@
 {
-    "name": "akaunting/version",
-    "description": "Version management package for Laravel.",
+    "name": "akaunting/laravel-version",
+    "description": "Version management package for Laravel",
     "keywords": [
         "laravel",
         "version"
