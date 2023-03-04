@@ -2,7 +2,6 @@
 
 [![Downloads](https://poser.pugx.org/akaunting/laravel-version/d/total.svg)](https://github.com/akaunting/laravel-version)
 [![StyleCI](https://styleci.io/repos/101269981/shield?style=flat&branch=master)](https://styleci.io/repos/101269981)
-[![Quality](https://scrutinizer-ci.com/g/akaunting/laravel-version/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/akaunting/laravel-version)
 [![License](https://poser.pugx.org/akaunting/laravel-version/license.svg)](LICENSE.md)
 
 This is a [SemVer](http://semver.org) compatible version management package for any software built on Laravel.
